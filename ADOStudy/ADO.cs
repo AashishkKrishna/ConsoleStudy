@@ -11,13 +11,13 @@ namespace ADOStudy
     public class ADO
     {
         public System.Data.SqlClient.SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["MyConnectionString"].ConnectionString);
-        
+
         public bool Insert(Info dataInsert)
         {
             SqlCommand cmd = new SqlCommand();
             cmd = con.CreateCommand();
             cmd.CommandType = CommandType.Text;
-            string query = "Insert into Info values ('" + dataInsert.Name + "', '" +dataInsert.Gender+ "')";
+            string query = "Insert into Info values ('" + dataInsert.Name + "', '" + dataInsert.Gender + "')";
             cmd.CommandText = query;
 
             int res = 0;
@@ -29,7 +29,7 @@ namespace ADOStudy
                 return true;
             }
             return false;
-            
+
         }
 
         public DataSet Retrieve()
@@ -48,18 +48,18 @@ namespace ADOStudy
             return dsSelect;
         }
 
-        public bool Update()
+        public bool Update(UpdateInfo dataUpdate)
         {
-            
+
             SqlCommand cmd = new SqlCommand();
             cmd = con.CreateCommand();
             cmd.CommandType = CommandType.Text;
-            string query = "Update Info SET Name='Neel',Gender='Male'";
+            string query = "Update Info SET Name = '" + dataUpdate.Name + "', Gender = '" + dataUpdate.Gender + "' where ID = " + dataUpdate.ID + "";
             cmd.CommandText = query;
 
             int res = 0;
             con.Open();
-            res = cmd.ExecuteNonQuery(); 
+            res = cmd.ExecuteNonQuery();
             con.Close();
             if (res >= 1)
             {
@@ -73,7 +73,7 @@ namespace ADOStudy
             SqlCommand cmd = new SqlCommand();
             cmd = con.CreateCommand();
             cmd.CommandType = CommandType.Text;
-            string query = "Delete From Info"; 
+            string query = "Delete From Info";
             cmd.CommandText = query;
 
             int res = 0;

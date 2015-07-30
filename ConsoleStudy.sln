@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{66B75FC0-45FC-4E6C-99A5-D9E55A77C39F}"
 EndProject
@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOStudy", "ADOStudy\ADOStu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestStudy", "UnitTestStudy\UnitTestStudy.csproj", "{E33321EA-882B-4B66-9ED9-BE1638D48EB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWindowsFormsAppStudy", "ClientWindowsFormsAppStudy\ClientWindowsFormsAppStudy.csproj", "{F2185AF9-C6C1-419B-B724-337386793BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,10 @@ Global
 		{E33321EA-882B-4B66-9ED9-BE1638D48EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E33321EA-882B-4B66-9ED9-BE1638D48EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E33321EA-882B-4B66-9ED9-BE1638D48EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2185AF9-C6C1-419B-B724-337386793BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2185AF9-C6C1-419B-B724-337386793BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2185AF9-C6C1-419B-B724-337386793BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2185AF9-C6C1-419B-B724-337386793BB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,5 +82,6 @@ Global
 		{C22C93C4-DAA6-4B21-AEEB-663DF4CBEE62} = {23F4C063-76D3-4CAF-9659-B9C08E07F3CA}
 		{12E27A22-9894-4359-9C6D-DCEEA331BA47} = {8F61C352-FC87-4516-80F4-A1CACE22BAD5}
 		{E33321EA-882B-4B66-9ED9-BE1638D48EB0} = {8F61C352-FC87-4516-80F4-A1CACE22BAD5}
+		{F2185AF9-C6C1-419B-B724-337386793BB7} = {D22D6599-2769-4991-ACE7-895E4B7DD562}
 	EndGlobalSection
 EndGlobal
