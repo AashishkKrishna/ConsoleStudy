@@ -1,0 +1,8 @@
+D:\Git\ConsoleStudy\UnitTestStudy\bin\Debug\UnitTestStudy.dll
+D:\Git\ConsoleStudy\UnitTestStudy\bin\Debug\UnitTestStudy.pdb
+D:\Git\ConsoleStudy\UnitTestStudy\bin\Debug\ADOStudy.dll
+D:\Git\ConsoleStudy\UnitTestStudy\bin\Debug\ADOStudy.pdb
+D:\Git\ConsoleStudy\UnitTestStudy\obj\Debug\UnitTestStudy.csprojResolveAssemblyReference.cache
+D:\Git\ConsoleStudy\UnitTestStudy\obj\Debug\UnitTestStudy.dll
+D:\Git\ConsoleStudy\UnitTestStudy\obj\Debug\UnitTestStudy.pdb
+D:\Git\ConsoleStudy\UnitTestStudy\bin\Debug\UnitTestStudy.dll.config

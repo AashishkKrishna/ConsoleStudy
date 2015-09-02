@@ -1,0 +1,5 @@
+D:\Git\ConsoleStudy\ClientConsoleAppStudy\bin\Debug\ClientConsoleAppStudy.exe.config
+D:\Git\ConsoleStudy\ClientConsoleAppStudy\bin\Debug\ClientConsoleAppStudy.exe
+D:\Git\ConsoleStudy\ClientConsoleAppStudy\bin\Debug\ClientConsoleAppStudy.pdb
+D:\Git\ConsoleStudy\ClientConsoleAppStudy\obj\Debug\ClientConsoleAppStudy.exe
+D:\Git\ConsoleStudy\ClientConsoleAppStudy\obj\Debug\ClientConsoleAppStudy.pdb

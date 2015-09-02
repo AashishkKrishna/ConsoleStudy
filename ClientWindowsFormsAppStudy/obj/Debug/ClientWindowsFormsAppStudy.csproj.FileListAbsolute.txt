@@ -1,0 +1,11 @@
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\bin\Debug\ClientWindowsFormsAppStudy.exe
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\bin\Debug\ClientWindowsFormsAppStudy.pdb
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\obj\Debug\ClientWindowsFormsAppStudy.csprojResolveAssemblyReference.cache
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\obj\Debug\ClientWindowsFormsAppStudy.Form1.resources
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\obj\Debug\ClientWindowsFormsAppStudy.Properties.Resources.resources
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\obj\Debug\ClientWindowsFormsAppStudy.csproj.GenerateResource.Cache
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\obj\Debug\ClientWindowsFormsAppStudy.exe
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\obj\Debug\ClientWindowsFormsAppStudy.pdb
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\bin\Debug\ClientWindowsFormsAppStudy.exe.config
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\bin\Debug\ADOStudy.dll
+D:\Git\ConsoleStudy\ClientWindowsFormsAppStudy\bin\Debug\ADOStudy.pdb

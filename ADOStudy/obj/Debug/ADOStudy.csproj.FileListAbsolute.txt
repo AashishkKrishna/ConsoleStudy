@@ -1,0 +1,6 @@
+D:\Git\ConsoleStudy\ADOStudy\bin\Debug\ADOStudy.dll
+D:\Git\ConsoleStudy\ADOStudy\bin\Debug\ADOStudy.pdb
+D:\Git\ConsoleStudy\ADOStudy\obj\Debug\ADOStudy.dll
+D:\Git\ConsoleStudy\ADOStudy\obj\Debug\ADOStudy.pdb
+D:\Git\ConsoleStudy\ADOStudy\bin\Debug\ADOStudy.dll.config
+D:\Git\ConsoleStudy\ADOStudy\obj\Debug\ADOStudy.csprojResolveAssemblyReference.cache
